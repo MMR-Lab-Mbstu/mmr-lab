@@ -25,18 +25,18 @@ repository               :"mmr-lab/mmrlab.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Dr. Md Masuder Rahman"
+  pronouns         : # example: "he/him"  
+  bio              : "Principal Investigator & Professor in the Department of Biotechnology and Genetic Engineering at Mawlana Bhashani Science and Technology University."
+  location         :"MBSTU, Tangail, Bangladesh"
+  employer         : "Mawlana Bhashani Science and Technology University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "masud@mbstu.ac.bd" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=scWR7ywAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
